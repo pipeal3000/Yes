@@ -1,0 +1,8 @@
+def caca():
+	answer_d=input("cuanto se recorrio\n")
+	answer_t=input("cuanto demoro\n")
+	print ("demoro %s segundos" %answer_t)
+	print("\nrecorrio %s metros"%answer_d)
+	float (answer_t)
+	answer_desplazamiento= (answer_d)/(answer_t)
+	print("\npor lo tanto, viajo a %f metros por segundo"%answer_desplazamiento)
